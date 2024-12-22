@@ -1,0 +1,19 @@
+﻿id,option_text,question_id
+1,Very satisfied,1
+2,Satisfied,1
+3,Neutral,1
+4,Dissatisfied,1
+5,Very dissatisfied,1
+6,Yes,2
+7,No,2
+8,Maybe,2
+9,Not sure,2
+10,Improve quality,3
+11,Improve delivery time,3
+12,Improve customer support,3
+13,None,3
+14,Excellent,4
+15,Good,4
+16,Average,4
+17,Poor,4
+18,Very poor,4
